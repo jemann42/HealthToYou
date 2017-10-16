@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "804290341879",
+    "firebase_url": "https://healthtoyou-da148.firebaseio.com",
+    "project_id": "healthtoyou-da148",
+    "storage_bucket": "healthtoyou-da148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804290341879:android:609434ed540ace9c",
+        "android_client_info": {
+          "package_name": "dd.joshuamann.gthack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804290341879-g6f03264955u2mdspbq2f4acov9oavte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9tJC_O41--sLSTM2pOufVlCgjN9ebByc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
