@@ -1,4 +1,4 @@
-package dd.joshuamann.health_to_you_application;
+package dd.joshuamann.gthack;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
